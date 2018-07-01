@@ -1,0 +1,9 @@
+Dear {{ new_subscription.name|capitalize }},
+
+Congratulations!
+
+You have subscribed to House blog.!
+
+You will now receive the updates on new blog as soon as they are posted
+Sincerely,
+House Bloggers.
